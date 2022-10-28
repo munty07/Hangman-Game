@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTP_lab3_spanzuratoare", "MTP_lab3_spanzuratoare\MTP_lab3_spanzuratoare.csproj", "{260B41F7-96A9-4282-9515-F70799F9041E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260B41F7-96A9-4282-9515-F70799F9041E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260B41F7-96A9-4282-9515-F70799F9041E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260B41F7-96A9-4282-9515-F70799F9041E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260B41F7-96A9-4282-9515-F70799F9041E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C8F926A-E2C1-447C-A9D8-060D3103CB27}
+	EndGlobalSection
+EndGlobal
